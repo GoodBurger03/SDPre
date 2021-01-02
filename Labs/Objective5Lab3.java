@@ -11,8 +11,5 @@ public class Objective5Lab3 {
     }  else {
         System.out.println("The number is not positive");
       }
-
-
-  
   }
 }
